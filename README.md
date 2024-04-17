@@ -1,5 +1,5 @@
 # Machine-Learning-Project-Classification-Problem
-## These are two projects showcasing machine learning predictive model selection for 2 datasets
+## This is a project showcasing machine learning predictive model selection for 2 datasets
 
 **Author**: Gladys Nacuka Babirye Bagandanswa
 
